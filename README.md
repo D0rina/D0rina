@@ -3,7 +3,7 @@
 **IT professional from Rijeka, Croatia** — databases, web development and networking,
 with many years of experience teaching these subjects in secondary and adult education.
 
-🇭🇷 *Informatičarka iz Rijeka — baze podataka, web razvoj i računalne mreže.*
+🇭🇷 *Informatičarka iz Rijeke — baze podataka, web razvoj i računalne mreže.*
 
 ## What I work with
 
